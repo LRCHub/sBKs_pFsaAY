@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Relax！",
+  "base_artist": "No Sleeves",
+  "createdAt": "2025-12-12T18:12:40.386262Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Relax, Take It Easy",
+      "artist": "MIKA",
+      "has_synced": true,
+      "path": "select/01_Relax,_Take_It_Easy_MIKA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Relax (Take It Easy)",
+      "artist": "Mika",
+      "has_synced": true,
+      "path": "select/02_Relax_(Take_It_Easy)_Mika.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Can't Relax",
+      "artist": "Mood Killer",
+      "has_synced": false,
+      "path": "select/03_Can't_Relax_Mood_Killer.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Time to Relax",
+      "artist": "The Offspring",
+      "has_synced": true,
+      "path": "select/04_Time_to_Relax_The_Offspring.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Relax",
+      "artist": "Calvin Harris",
+      "has_synced": true,
+      "path": "select/05_Relax_Calvin_Harris.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kant rëlax",
+      "artist": "Yeat",
+      "has_synced": false,
+      "path": "select/06_Kant_rëlax_Yeat.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kant Rëlax",
+      "artist": "Yeat",
+      "has_synced": true,
+      "path": "select/07_Kant_Rëlax_Yeat.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Relax (Come Fighting)",
+      "artist": "Frankie Goes to Hollywood",
+      "has_synced": true,
+      "path": "select/08_Relax_(Come_Fighting)_Frankie_Goes_to_Hollywood.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Relax",
+      "artist": "Frankie Goes to Hollywood",
+      "has_synced": true,
+      "path": "select/09_Relax_Frankie_Goes_to_Hollywood.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "How Do I Relax",
+      "artist": "Butter 08",
+      "has_synced": true,
+      "path": "select/10_How_Do_I_Relax_Butter_08.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Relax My Beloved",
+      "artist": "Alex Clare",
+      "has_synced": true,
+      "path": "select/11_Relax_My_Beloved_Alex_Clare.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Learning to Relax",
+      "artist": "Dan Deacon",
+      "has_synced": true,
+      "path": "select/12_Learning_to_Relax_Dan_Deacon.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Relax",
+      "artist": "Das Racist feat. Heems",
+      "has_synced": false,
+      "path": "select/13_Relax_Das_Racist_feat._Heems.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Relax",
+      "artist": "Das Racist",
+      "has_synced": false,
+      "path": "select/14_Relax_Das_Racist.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Relax",
+      "artist": "Peaches",
+      "has_synced": false,
+      "path": "select/15_Relax_Peaches.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Relax Your Body",
+      "artist": "Dr. Felix",
+      "has_synced": false,
+      "path": "select/16_Relax_Your_Body_Dr._Felix.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Relax!",
+      "artist": "No Sleeves",
+      "has_synced": false,
+      "path": "select/pl_01_Relax!_No_Sleeves.txt"
+    }
+  ]
+}
